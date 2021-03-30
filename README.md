@@ -1,4 +1,4 @@
-## React Expense Tracker
+## React Wallet App
 App to track all your transactions.
 
 

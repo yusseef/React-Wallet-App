@@ -5,7 +5,7 @@ App to track all your transactions.
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
